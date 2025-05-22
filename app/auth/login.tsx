@@ -53,7 +53,7 @@ export default function LoginScreen() {
         >
           <View style={styles.header}>
             <ThemedText style={styles.title}>Welcome Back!</ThemedText>
-            <ThemedText style={styles.subtitle}>Sign in to your account</ThemedText>
+            <ThemedText style={styles.subtitle}>Log in to your account</ThemedText>
           </View>
 
           <View style={styles.card}>
